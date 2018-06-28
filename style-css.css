@@ -1,0 +1,33 @@
+
+body { background : #F8F698 }
+
+h1{
+ color : #FB7F25;
+ text-align : center;
+ font-family: 'Bowlby One SC', cursive;
+ letter-spacing: 10px;
+ text-shadow: 3px 2px #CE6920;
+}
+
+h2{
+  color : #CE6920;
+  font-family: 'Six Caps', sans-serif;
+  font-size: 35px;
+  letter-spacing: 5px;
+  text-shadow: 2px 1px #FE852D;
+}
+
+h3{
+  color : #CE6920;
+  font-family: 'Six Caps', sans-serif;
+  font-size: 35px;
+  letter-spacing: 5px;
+  text-shadow: 2px 1px #FE852D;
+
+}
+h4{
+  color : #7A4016;
+  text-indent: 40px;
+  font-family: 'Raleway Dots', cursive;
+  font-size: 20px;
+}
